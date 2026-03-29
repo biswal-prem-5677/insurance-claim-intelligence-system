@@ -1,0 +1,14 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "property-no-vendor-prefix": null,
+    "declaration-no-important": null,
+    "selector-pseudo-element-no-unknown": null,
+    "no-descending-specificity": null
+  },
+  "ignoreFiles": [
+    "**/node_modules/**",
+    "**/dist/**",
+    "fraud_investigation_network.html"
+  ]
+}

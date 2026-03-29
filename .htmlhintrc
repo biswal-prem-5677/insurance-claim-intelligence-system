@@ -1,0 +1,13 @@
+{
+  "attr-unsafe-chars": false,
+  "attr-value-double-quotes": false,
+  "doctype-first": false,
+  "doctype-html5": false,
+  "id-class-value": false,
+  "id-unique": false,
+  "inline-style-disabled": false,
+  "tag-pair": true,
+  "tag-self-close": false,
+  "tagname-lowercase": false,
+  "title-require": false
+}

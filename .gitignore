@@ -1,0 +1,110 @@
+# Environment
+venv/
+venv_*/
+env/
+ENV/
+.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+notebooks/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs & Temp Files
+*.log
+*.tmp
+*.txt
+!README.md
+!QUICK_START.md
+!requirements.txt
+
+# Test & Debug Files
+test_*.py
+debug_*.py
+quick_test*.py
+*_test.py
+comprehensive_*.py
+audit_*.py
+fix_*.py
+
+# Output Files
+output.txt
+debug_output.txt
+model_test_results.txt
+test_output*.txt
+FINAL_VERIFICATION_RESULTS.txt
+
+# Old Model Files (keep only v2)
+models/fraud_model.pkl
+models/scaler.pkl
+models/feature_columns.pkl
+models/fraud_model_v1.pkl
+
+# Graphs & Visualizations
+fraud_investigation_network.html
+
+# Config & Meta
+project_tree.txt
+*.md
+!README.md
+!QUICK_START.md
+
+# Data Processing
+load_*.py
+train_model.py
+src/train_model.py
+
+# Experiment & Auxiliary
+experiment_*/
+*.pickle
+*.joblib
+
+# Documentation (keep main docs, remove development docs)
+ARCHITECTURE_ANALYSIS.md
+CATEGORICAL_ENCODING_FIX_SUMMARY.md
+CODE_CHANGES_REFERENCE.md
+COMPREHENSIVE_AUDIT_REPORT.md
+INVESTIGATION_*.md
+FIXES_VERIFICATION.md
+LAYOUT_*.md
+LOGIC_REVIEW.md
+MODEL_*.md
+PREDICTION_FLOW_*.md
+PROJECT_*.md
+PROPOSED_FIX*.md
+SYSTEM_*.md
+INTEGRATION_FIXES_SUMMARY.md
+IMPLEMENTATION_COMPLETE.md
+SVM_ANALYSIS.md
+QUICK_REFERENCE_CARD.md

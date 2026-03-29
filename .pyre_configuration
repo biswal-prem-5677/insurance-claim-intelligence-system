@@ -1,0 +1,10 @@
+{
+    "source_directories": ["."],
+    "ignore_all_errors": [
+        "src/fraud_investigation_system.py",
+        "src/decision_engine.py",
+        "src/explainability.py",
+        "src/train_model.py",
+        "app/app.py"
+    ]
+}
