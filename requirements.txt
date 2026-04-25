@@ -35,4 +35,4 @@ seaborn==0.12.2
 shap==0.42.1  # For SHAP explainability
 
 # Development
-python-dotenv==1.0.0
+python-dotenv==1.2.2
